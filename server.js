@@ -19,7 +19,7 @@ const projects = [
     year: "2026",
     highlight: true,
     placeholder: "cv",
-    image:"/assets/AIBodyshop.png",
+    image:"assets/AIBodyshop.png",
     description: "A Progressive Web Application developed in collaboration with Middlesex University and Leal & Co Ltd, addressing a real operational bottleneck at Leal Bodyshop. The manual vehicle inspection process — dependent on individual judgment and prone to inconsistency — was replaced with a system that uses computer vision and deep learning to detect damage zones and generate repair cost estimates automatically. The project was developed with close collaboration with subject matter experts throughout development.",
     bullets: [
       "Automated vehicle identification using OCR on Insurance Vignettes and VIN decoding", 
@@ -38,7 +38,7 @@ const projects = [
     year: "2025",
     highlight: false,
     placeholder: "pills",
-    image: "/assets/PillsDispensingSystem.jpg",
+    image: "assets/PillsDispensingSystem.jpg",
     description: "An automated medication dispensing system designed to reduce manual errors in pill administration. The system manages medication schedules, dispenses the correct dosage at the correct time, and alerts users or caregivers when action is required. The project combined hardware interfacing with a software control layer, designed with reliability and safety as primary constraints — given the critical nature of medication management in real-world settings.",
     bullets: [
       "Speech Recognition to activate robot upon first use",
@@ -108,7 +108,7 @@ const projects = [
     year: "2025",
     highlight: false,
     placeholder: "erp",
-    image: "/assets/ERP.png",
+    image: "assets/ERP.png",
     description: "A business process solution built for Leal Énergie using Microsoft Power Apps, designed to centralise customer management and field survey operations. Previously handled on paper, the entire workflow — from logging a customer enquiry to completing an on-site survey and generating an invoice-ready document — was consolidated into a single digital system accessible in the field.",
     bullets: [
       "Customer records and follow-up tracking system built in Power Apps",
@@ -126,7 +126,7 @@ const projects = [
     year: "2025",
     highlight: false,
     placeholder: "bmwform",
-    image: "/assets/BMWServiceReception.png",
+    image: "assets/BMWServiceReception.png",
     description: "A digitised service reception solution built in Microsoft Power Apps for BMW, replacing a manual paper-based intake process. The app captures vehicle and customer details, supports on-the-spot image capture for documenting vehicle condition, and generates a PDF automatically upon form completion. The system was also integrated with the workshop planning tool, giving the customer care team visibility over upcoming appointments and enabling a more personalised, informed approach when receiving clients.",
     bullets: [
       "Digital service reception form replacing paper intake process",
@@ -144,7 +144,7 @@ const projects = [
     year: "2025",
     highlight: false,
     placeholder: "labourcard",
-    image: "/assets/BestDriveApp.png",
+    image: "assets/BestDriveApp.png",
     description: "A digitalised labour card system built to replace the manual paper workflow used at Best Fit, covering the full journey from client reception through to tyre mounting. The solution was developed in close collaboration with the team on the ground, with the interface and workflow customised to reflect how they actually work — making adoption straightforward and the day-to-day process significantly more efficient.",
     bullets: [
       "End-to-end digital workflow from client reception to tyre mounting",
@@ -162,7 +162,7 @@ const projects = [
     year: "2025",
     highlight: false,
     placeholder: "testdrive",
-    image: "/assets/TestDrive.png",
+    image: "assets/TestDrive.png",
     description: "A calendar-based test drive management application built in Microsoft Power Apps for both the BMW and KIA brands. The app allows service advisors to schedule test drives and automatically handles the full surrounding workflow — digital departure and return forms are completed in-app, reminder emails are sent to both the client and the service advisor ahead of the booking, and an Outlook calendar event is created automatically at the time of booking.",
     bullets: [
       "Calendar-based test drive scheduling for BMW and KIA",
@@ -180,7 +180,7 @@ const projects = [
     year: "2025",
     highlight: false,
     placeholder: "pnl",
-    image: "/assets/PNLEvents.png",
+    image: "assets/PNLEvents.png",
     description: "A full-stack internal event booking application built for employees, covering events such as psychologist appointments and company sessions. Employees can browse available events and make bookings through a clean interface, while administrators have a separate management view to create events, monitor bookings, and manage capacity. The application was built from scratch using Vue.js on the frontend and Express.js on the backend.",
     bullets: [
       "Employee-facing booking interface for internal events and appointments",
